@@ -13,4 +13,4 @@ OBS: É possível rodar arquivos `.ts` "nativamente", tendo as seguintes extens�
 
 ## Links Úteis
 
-(TypeScript Pro: A 4-Hour Deep Dive from Basics to Expert Level - HuXn WebDev)[https://www.youtube.com/watch?v=zeCDuo74uzA]
+- [TypeScript Pro: A 4-Hour Deep Dive from Basics to Expert Level - HuXn WebDev](https://www.youtube.com/watch?v=zeCDuo74uzA)
