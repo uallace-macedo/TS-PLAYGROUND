@@ -8,8 +8,8 @@ npm i -g ts-node
 
 OBS: É possível rodar arquivos `.ts` "nativamente", tendo as seguintes extensões:
 
-1 - Code Runner
-2 - JavaScript and TypeScript Nightly
+- Code Runner
+- JavaScript and TypeScript Nightly
 
 ## Links Úteis
 
